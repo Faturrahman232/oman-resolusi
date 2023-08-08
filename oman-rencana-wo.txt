@@ -5,4 +5,5 @@ rencana WO oman
   * diamond
   * wide
 - jogging pagi
+ * minimal 30 menit
 - angkat beban 
