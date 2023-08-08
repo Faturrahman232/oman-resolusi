@@ -6,4 +6,6 @@ rencana WO oman
   * wide
 - jogging pagi
  * minimal 30 menit
+ * minimal 5 kali putaran komple
 - angkat beban 
+ * durasi 1 jam tapi maksimal
