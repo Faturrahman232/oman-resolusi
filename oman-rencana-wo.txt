@@ -8,3 +8,4 @@ rencana WO oman
  * minimal 30 menit
 - angkat beban 
  * 2x sehari tiap sore
+ * minimal 1 jam (close to failur) 
