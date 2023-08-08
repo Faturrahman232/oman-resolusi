@@ -8,4 +8,6 @@ rencana WO oman
  * minimal 30 menit
  * minimal 5 kali putaran komple
 - angkat beban 
- * durasi 1 jam tapi maksimal
+ * 2x sehari tiap sore
+ * minimal 1 jam (close to failur) 
+
